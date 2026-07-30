@@ -1,8 +1,31 @@
 aid: aatmunn
 name: Aatmunn
-description: 'Aatmunn is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Aatmunn (formerly Guardhat, founded 2014 in Detroit and headquartered in
+  Livonia, Michigan) is an industrial safety and asset intelligence platform for
+  frontline and deskless workers. Its SPANR / Industrial Internet of People
+  (IIoP) platform unifies workers, workplaces, and assets into one real-time
+  system, connecting devices from any manufacturer and layering AI-driven
+  insights for predictive hazard detection, emergency response, inspections, and
+  compliance. Products include Inspections, Lone Worker Safety, Human Condition
+  Monitoring, Gas Detection, Control Access Zoning, and Asset Tracking, serving
+  250+ companies across high-risk industries such as oil & gas, chemicals,
+  mining & infrastructure, manufacturing, utilities, and warehousing & logistics.
+  This profile was surfaced as a General Catalyst portfolio company and is
+  maintained by the API Evangelist enrichment pipeline; Aatmunn publishes no
+  public developer API, SDKs, or OpenAPI at this time.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6990c5c020329496a3df0e8f/6990c5c020329496a3df130e_Aatmunn_Logo_Final.png
 url: https://raw.githubusercontent.com/api-evangelist/aatmunn/refs/heads/main/apis.yml
 x-type: company
 x-source: general-catalyst-portfolio
@@ -14,9 +37,46 @@ modified: '2026-07-17'
 tags:
 - Company
 - Enterprise
+- Worker Safety
+- Industrial IoT
+- Asset Intelligence
+- Connected Worker
+- Occupational Safety
+- Compliance
+- Frontline Workers
 apis: []
+common:
+- type: DomainSecurity
+  url: security/aatmunn-domain-security.yml
+- type: Website
+  url: https://aatmunn.com/
+- type: Blog
+  url: https://aatmunn.com/blogs
+- type: Login
+  url: https://iiop.aatmunn.net/login
+- type: Support
+  url: https://aatmunn.com/contact-us
+- type: TermsOfService
+  url: https://aatmunn.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://aatmunn.com/privacy-policy
+- type: TrustCenter
+  url: https://trustcenter.aatmunn.com/
+- type: Compliance
+  url: https://trustcenter.aatmunn.com/
+- type: VulnerabilityDisclosure
+  url: security/aatmunn-vulnerability-disclosure.yml
+- type: Security
+  url: https://trustcenter.aatmunn.com/
+- type: LLMsTxt
+  url: llms/aatmunn-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
