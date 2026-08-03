@@ -1,0 +1,33 @@
+# Aatmunn
+
+> Aatmunn (formerly Guardhat, founded 2014 in Detroit, headquartered in Livonia, Michigan) is an industrial safety and asset intelligence platform for frontline and deskless workers. Its SPANR / Industrial Internet of People (IIoP) platform unifies workers, workplaces, and assets into one real-time system with AI-driven insights for predictive hazard detection, emergency response, inspections, and compliance. Aatmunn publishes no public developer API, SDKs, or OpenAPI at this time.
+
+## Company
+
+- [Website](https://aatmunn.com/): Aatmunn industrial safety & asset intelligence platform
+- [About Us](https://aatmunn.com/about-us): Company background, mission, and history (formerly Guardhat)
+- [Blog](https://aatmunn.com/blogs): News and articles
+- [Contact / Support](https://aatmunn.com/contact-us): Contact and support
+- [Login](https://iiop.aatmunn.net/login): IIoP platform login
+
+## Products
+
+- Inspections by Aatmunn
+- Lone Worker Safety
+- Human Condition Monitoring
+- Gas Detection
+- Control Access Zoning
+- Asset Tracking
+
+## Trust & Legal
+
+- [Trust Center](https://trustcenter.aatmunn.com/): Security posture; SOC 2 Type 2 (2025); responsible-disclosure reporting
+- [Terms and Conditions](https://aatmunn.com/terms-and-conditions)
+- [Privacy Policy](https://aatmunn.com/privacy-policy)
+
+## Notes
+
+- generated: 2026-07-17
+- method: generated
+- source: apis.yml (API Evangelist enrichment pipeline)
+- No public API, SDK, OpenAPI, or /llms.txt was found on the provider surface.

@@ -1,0 +1,21 @@
+generated: '2026-07-17'
+method: searched
+probe: false
+source: https://trustcenter.aatmunn.com/
+url: https://trustcenter.aatmunn.com/
+certifications:
+- SOC 2 Type 2
+programs:
+- name: SOC 2 Type 2
+  year: 2025
+  note: >-
+    Aatmunn achieved SOC 2 Type II compliance in 2025, described on the trust
+    center as an ongoing commitment to strong security and privacy practices.
+evidence:
+- source: https://trustcenter.aatmunn.com/
+  keywords: [soc 2 type 2, trust center, security, privacy]
+notes: >-
+  Public Aatmunn Trust Center. Names SOC 2 Type 2 (2025). No other named
+  certifications (ISO 27001, HIPAA, PCI DSS, FedRAMP, GDPR) were published on the
+  page at time of capture. Includes a "Report An Issue" responsible-disclosure
+  mechanism (see aatmunn-vulnerability-disclosure.yml).
