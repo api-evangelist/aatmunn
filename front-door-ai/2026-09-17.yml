@@ -1,0 +1,27 @@
+# Front Door AI Index — aatmunn — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: aatmunn
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: aatmunn.com
+  final_host: aatmunn.com
+  ownership: own
+  owner: aatmunn
+  shares_host_with:
+  - guardhat
+  inherited_from: null
+  verdict: silent
+  score: 0
+  host_score: 0
+  density: 0.0
+  words: 1672
+  tiers:
+    agentic: 0
+    core: 0
+    model: 0
+  ambiguous: 13
+  top_terms:
+    intelligence: 12
+    smart: 1
